@@ -383,7 +383,6 @@
 		2D5C115622632D9600B9F3C6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6USCN7H2JA;
 				INFOPLIST_FILE = "Baluchon FC/Info.plist";
@@ -402,7 +401,6 @@
 		2D5C115722632D9600B9F3C6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6USCN7H2JA;
 				INFOPLIST_FILE = "Baluchon FC/Info.plist";
